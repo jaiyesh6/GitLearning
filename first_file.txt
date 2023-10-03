@@ -1,3 +1,3 @@
 This is version-1 of my project.
 
-modifying the design..
+modifying the design for the 2nd time.
